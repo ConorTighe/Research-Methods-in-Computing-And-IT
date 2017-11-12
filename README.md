@@ -1,5 +1,5 @@
 # Research-Methods-in-Computing-And-IT
-The following is a research paper written in [LaTeX](https://www.latex-project.org/) on the topic of the cryptocurremcy Bitcoin. This repo also the slides from the presenation done on bitcoin as part of this module.
+The following is a research paper written in [LaTeX](https://www.latex-project.org/) on the topic of the cryptocurrency Bitcoin. This repository also contains the slides from the presenation done on bitcoin as part of this module.
 
 ## Does Bitcoin have a future as a recognized tender worldwide?
 
